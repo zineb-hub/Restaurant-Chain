@@ -1,0 +1,65 @@
+owned,Valley Feast,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Valley Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Fields,Algerian,Syrian,Chinese,Indian,European.
+owned,Terrace Summit View,Algerian,Syrian,Chinese,Indian,European.
+owned,Terrace Skyline Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,Terrace Cliffside Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea food Cove,Algerian,Syrian,Chinese,Indian,European.
+owned,Waves Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Ocean Paradise,Algerian,Syrian,Chinese,Indian,European.
+owned,River front Bistro,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Eats,Algerian,Syrian,Chinese,Indian,European.
+owned,Garden Retreat,Algerian,Syrian,Chinese,Indian,European.
+owned,Plateau Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Savory Summit,Algerian,Syrian,Chinese,Indian,European.
+owned,Panorama Eats,Algerian,Syrian,Chinese,Indian,European.
+owned,Canyon View,Algerian,Syrian,Chinese,Indian,European.
+owned,Ravine Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Cliffside Bistro,Algerian,Syrian,Chinese,Indian,European.
+owned,top Haven,Algerian,Syrian,Chinese,Indian,European.
+owned,Peak Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Sky High Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Valley View,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Valley Bistro,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Fields,Algerian,Syrian,Chinese,Indian,European.
+owned,Central Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,Harmony Haven,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Retreat,Algerian,Syrian,Chinese,Indian,European.
+owned,Riverside Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Waterfront Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Blue River Bistro,Algerian,Syrian,Chinese,Indian,European.
+owned,Tropical Haven,Algerian,Syrian,Chinese,Indian,European.
+owned,Palm Paradise,Algerian,Syrian,Chinese,Indian,European.
+owned,Island Retreat,Algerian,Syrian,Chinese,Indian,European.
+owned,Coastal Breeze,Algerian,Syrian,Chinese,Indian,European.
+owned,Shore line Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea front Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Tropical Haven,Algerian,Syrian,Chinese,Indian,European.
+owned,Palm Paradise,Algerian,Syrian,Chinese,Indian,European.
+owned,Coastal Breeze,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea side Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,Cafe Ocean Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Plateau Paradise,Algerian,Syrian,Chinese,Indian,European.
+owned,Summit Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain Oasis,Algerian,Syrian,Chinese,Indian,European.
+owned,Oasis Oasis,Algerian,Syrian,Chinese,Indian,European.
+owned,Desert Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Sand Dunes Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Cafede Paris,Algerian,Syrian,Chinese,Indian,European.
+owned,Spicy Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,Food Haven,Algerian,Syrian,Chinese,Indian,European.
+owned,Fusion Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Sushi Express,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain View,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Harvest,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Oasis,Algerian,Syrian,Chinese,Indian,European.
+owned,Lakeside Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Blue Lagoon,Algerian,Syrian,Chinese,Indian,European.
+owned,Sunset Terrace,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain Retreat,Algerian,Syrian,Chinese,Indian,European.
+owned,Highland Bites,Algerian,Syrian,Chinese,Indian,European.
+owned,View Natures Grill,Algerian,Syrian,Chinese,Indian,European.
+owned,Lowland Delight,Algerian,Syrian,Chinese,Indian,European.
+owned,Meadow view,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Fields,Algerian,Syrian,Chinese,Indian,European.

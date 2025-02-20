@@ -1,0 +1,66 @@
+owned,Valley Feast,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Valley Grill,24,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Fields,Algerian,25,Syrian,Chinese,Indian,European.
+owned,Terrace Summit View,26,Algerian,Syrian,Chinese,Indian,European.
+owned,Terrace Skyline Bites,27,Algerian,Syrian,Chinese,Indian,European.
+owned,Terrace Cliffside Delight,29,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea food Cove,15,Algerian,Syrian,Chinese,Indian,European.
+owned,Waves Grill,43,Algerian,Syrian,Chinese,Indian,European.
+owned,Ocean Paradise,22,Algerian,Syrian,Chinese,Indian,European.
+owned,River front Bistro,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Eats,24,Algerian,Syrian,Chinese,Indian,European.
+owned,Garden Retreat,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Plateau Grill,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Savory Summit,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Panorama Eats,25,Algerian,Syrian,Chinese,Indian,European.
+owned,Canyon View,24,,Algerian,Syrian,Chinese,Indian,European.
+owned,Ravine Delight,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Cliffside Bistro,30,Algerian,Syrian,Chinese,Indian,European.
+owned,top Haven,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Peak Grill,34,Algerian,Syrian,Chinese,Indian,European.
+owned,Sky High Delight,36,Algerian,Syrian,Chinese,Indian,European.
+owned,Valley View,54,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Valley Bistro,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Fields,34,Algerian,Syrian,Chinese,Indian,European.
+owned,Central Bites,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Harmony Haven,17,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Retreat,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Riverside Grill,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Waterfront Delight,46,Algerian,Syrian,Chinese,Indian,European.
+owned,Blue River Bistro,15,Algerian,Syrian,Chinese,Indian,European.
+owned,Tropical Haven,14,Algerian,Syrian,Chinese,Indian,European.
+owned,Palm Paradise,32,Algerian,Syrian,Chinese,Indian,European.
+owned,Island Retreat,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Coastal Breeze,14,Algerian,Syrian,Chinese,Indian,European.
+owned,Shore line Grill,13,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea front Delight,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Tropical Haven,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Palm Paradise,18,Algerian,Syrian,Chinese,Indian,European.
+owned,Coastal Breeze,14,Algerian,Syrian,Chinese,Indian,European.
+owned,Sea side Bites,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Cafe Ocean Delight,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Plateau Paradise,43,Algerian,Syrian,Chinese,Indian,European.
+owned,Summit Bites,34,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain Oasis,23,Algerian,Syrian,Chinese,Indian,European.
+owned,Oasis Oasis,16,Algerian,Syrian,Chinese,Indian,European.
+owned,Desert Delight,12,Algerian,Syrian,Chinese,Indian,European.
+owned,Sand Dunes Grill,13,Algerian,Syrian,Chinese,Indian,European.
+owned,Cafede Paris,19,Algerian,Syrian,Chinese,Indian,European.
+owned,Spicy Bites,20,Algerian,Syrian,Chinese,Indian,European.
+owned,Food Haven,34,Algerian,Syrian,Chinese,Indian,European.
+owned,Fusion Delight,26,Algerian,Syrian,Chinese,Indian,European.
+owned,Urban Grill,21,Algerian,Syrian,Chinese,Indian,European.
+owned,Sushi Express,18,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain View,13,Algerian,Syrian,Chinese,Indian,European.
+owned,Fresh Harvest,14,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Oasis,15,Algerian,Syrian,Chinese,Indian,European.
+owned,Lakeside Grill,19,Algerian,Syrian,Chinese,Indian,European.
+owned,Blue Lagoon,21,Algerian,Syrian,Chinese,Indian,European.
+owned,Sunset Terrace,33,Algerian,Syrian,Chinese,Indian,European.
+owned,Mountain Retreat,18,Algerian,Syrian,Chinese,Indian,European.
+owned,Highland Bites,23,Algerian,Syrian,Chinese,Indian,European.
+owned,View Natures Grill,34,Algerian,Syrian,Chinese,Indian,European.
+owned,Lowland Delight,35,Algerian,Syrian,Chinese,Indian,European.
+owned,Meadow view,45,Algerian,Syrian,Chinese,Indian,European.
+owned,Green Fields,12,Algerian,Syrian,Chinese,Indian,European.
+franchised,casbah,25,Algerian,Syrian,Chinese,Indian,European.

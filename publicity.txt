@@ -1,0 +1,151 @@
+2019,3,1,Valley Feast,459/
+2019,3,2,Green Valley Grill,74/
+2019,3,4,Le Continental,86/
+2019,3,12,Le Continental,54/
+2019,3,15,Fresh Fields,29/
+2019,3,16,Summit View,70/
+2019,3,17,Skyline Bites,93/
+2019,3,18,Cliffside Delight,92/
+2019,3,19,Seafood Cove,31/
+2019,3,19,Le Continental,54/
+2019,3,20,Waves Grill,47/
+2019,3,21,Ocean Paradise,78/
+2019,3,22,Riverfront Bistro,63/
+2019,3,23,Urban Eats,19/
+2019,3,23,Le Continental,99/
+2019,3,24,Garden Retreat,71/
+2019,3,25,Plateau Grill,83/
+2019,3,26,Savory Summit,44/
+2019,3,27,Le Continental,34/
+2019,3,27,Panorama Eats,31/
+2019,3,28,Ocean Paradise,52/
+2019,3,29,Canyon View,31/
+2019,3,30,Ravine Delight,40/
+2019,3,31,Garden Retreat,69/
+2019,4,1,Cliffside Bistro,43/
+2019,4,2,Hilltop Haven,29/
+2019,4,3,Peak Grill,26/
+2019,4,4,Sky High Delight,11/
+2019,4,5,Valley View,19/
+2019,4,6,Green Valley Bistro,77/
+2019,4,7,Fresh Fields,16/
+2019,4,8,Central Bites,35/
+2019,4,9,Harmony Haven,91/
+2019,5,12,Riverside Grill,85/
+2019,5,13,Waterfront Delight,93/
+2019,5,14,Blue River Bistro,16/
+2019,5,12,Tropical Haven,16/
+2019,6,18,Palm Paradise,24/
+2019,6,19,Island Retreat,32/
+2019,6,20,Coastal Breeze,65/
+2019,6,21,Shoreline Grill,10/
+2019,7,15,Seafront Delight,39/
+2019,7,16,Tropical Haven,41/
+2019,7,17,Palm Paradise,72/
+2019,7,18,Coastal Breeze,41/
+2019,7,19,Seaside Bites,13/
+2019,7,19,Ocean Delight,35/
+2019,7,20,Plateau Paradise,22/
+2019,7,21,Summit Bites,72/
+2019,7,22,Mountain Oasis,66/
+2019,7,23,Oasis Oasis,93/
+2019,7,23,Desert Delight,55/
+2019,7,24,Sand Dunes Grill,14/
+2019,7,25,Cafe de Paris,34/
+2019,7,26,Spicy Bites,43/
+2019,7,27,Food Haven,34/
+2019,7,27,Fusion Delight,19/
+2019,7,28,Urban Grill,13/
+2019,7,29,Sushi Express,36/
+2019,7,30,Mountain View,30/
+2019,8,1,Fresh Harvest,61/
+2019,8,2,Lakeside Grill,30/
+2019,8,3,Green Oasis,11/
+2019,8,4,Blue Lagoon,15/
+2019,8,5,Sunset Terrace,61/
+2019,8,6,Mountain Retreat,97/
+2019,8,7,Highland Bites,16/
+2019,8,8,Nature's Grill,30/
+2019,8,9,Lowland Delight,51/
+2019,8,10,Meadowview,90/
+2019,8,16,Green Fields,27/
+2019,9,2,Restaurant15,76/
+2019,9,22,Restaurant10,82/
+2019,9,22,Restaurant20,95/
+2019,9,22,Restaurant5,95/
+2019,9,8,Restaurant12,55/
+2019,9,8,Restaurant17,76/
+2019,9,8,Restaurant2,76/
+2019,9,8,Restaurant7,67/
+2019,10,4,Restaurant1,98/
+2019,10,4,Restaurant11,84/
+2019,10,4,Restaurant16,98/
+2019,10,4,Restaurant6,89/
+2019,12,15,Restaurant13,18/
+2019,12,15,Restaurant18,12/
+2019,12,15,Restaurant3,12/
+2019,12,15,Restaurant8,16/
+2020,2,19,Restaurant1,85/
+2020,2,19,Restaurant11,70/
+2020,2,19,Restaurant16,85/
+2020,2,19,Restaurant6,76/
+2020,5,12,Restaurant12,95/
+2020,5,12,Restaurant17,10/
+2020,5,12,Restaurant2,10/
+2020,5,12,Restaurant7,10/
+2020,6,18,Restaurant12,44/
+2020,6,18,Restaurant17,52/
+2020,6,18,Restaurant2,52/
+2020,6,18,Restaurant7,59/
+2020,11,15,Restaurant12,51/
+2020,11,15,Restaurant17,36/
+2020,11,15,Restaurant2,36/
+2020,11,15,Restaurant7,41/
+2021,3,12,Restaurant1,75/
+2021,3,12,Restaurant11,58/
+2021,3,12,Restaurant16,75/
+2021,3,12,Restaurant6,63/
+2021,3,21,Restaurant14,38/
+2021,3,21,Restaurant19,37/
+2021,3,21,Restaurant4,37/
+2021,3,21,Restaurant9,41/
+2021,5,7,Restaurant14,11/
+2021,5,7,Restaurant19,10/
+2021,5,7,Restaurant4,10/
+2021,5,7,Restaurant9,9/
+2021,6,18,Restaurant12,35/
+2021,6,18,Restaurant17,43/
+2021,6,18,Restaurant2,43/
+2021,6,18,Restaurant7,48/
+2021,7,29,Restaurant14,49/
+2021,7,29,Restaurant19,47/
+2021,7,29,Restaurant4,47/
+2021,7,29,Restaurant9,52/
+2021,12,23,Restaurant1,99/
+2021,12,23,Restaurant11,77/
+2021,12,23,Restaurant16,99/
+2021,12,23,Restaurant6,76/
+2021,12,30,Restaurant14,72/
+2021,12,30,Restaurant19,23/
+2021,12,30,Restaurant4,23/
+2021,12,30,Restaurant9,17/
+2022,4,7,Restaurant10,38/
+2022,4,7,Restaurant13,45/
+2022,4,7,Restaurant15,40/
+2022,4,7,Restaurant18,29/
+2022,4,7,Restaurant20,29/
+2022,4,7,Restaurant3,29/
+2022,4,7,Restaurant5,29/
+2022,4,7,Restaurant8,36/
+2022,8,10,Restaurant13,79/
+2022,8,10,Restaurant18,76/
+2022,8,10,Restaurant3,76/
+2022,8,10,Restaurant8,85/
+2022,9,17,Restaurant13,21/
+2022,9,17,Restaurant18,16/
+2022,9,17,Restaurant3,16/
+2022,9,17,Restaurant8,18/
+2022,11,8,Restaurant13,59/
+2022,11,8,Restaurant18,76/
+2022,11,8,Restaurant3,76/
+2022,11,8,Restaurant8,65/

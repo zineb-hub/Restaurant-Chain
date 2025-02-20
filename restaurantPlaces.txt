@@ -1,0 +1,65 @@
+Constantine,East Valley,Valley Vista,Valley Feast.
+Constantine,East Valley,Valley Vista,Green Valley Grill.
+Constantine,East Valley,Valley Vista,Fresh Fields.
+Constantine,East Hilltop,Hilltop Terrace,Summit View.
+Constantine,East Hilltop,Hilltop Terrace,Skyline Bites.
+Constantine,East Hilltop,Hilltop Terrace,Cliffside Delight.
+Oran,West Coastal,Coastal Haven,Seafood Cove.
+Oran,West Coastal,Coastal Haven,Waves Grill.
+Oran,West Coastal,Coastal Haven,Ocean Paradise.
+Oran,West Riverside,Riverside Plaza,Riverfront Bistro.
+Oran,West Riverside,Riverside Plaza,Urban Eats.
+Oran,West Riverside,Riverside Plaza,Garden Retreat.
+Batna,Southeast Plateau,Plateau Plaza,Plateau Grill.
+Batna,Southeast Plateau,Plateau Plaza,Savory Summit.
+Batna,Southeast Plateau,Plateau Plaza,Panorama Eats.
+Batna,Southeast Canyon,Canyon Corner,Canyon View.
+Batna,Southeast Canyon,Canyon Corner,Ravine Delight.
+Batna,Southeast Canyon,Canyon Corner,Cliffside Bistro.
+Blida,North Hillside,Hillside Heights,Hilltop Haven.
+Blida,North Hillside,Hillside Heights,Peak Grill.
+Blida,North Hillside,Hillside Heights,Sky High Delight.
+Blida,North Valley,Valley Vista,Valley View.
+Blida,North Valley,Valley Vista,Green Valley Bistro.
+Blida,North Valley,Valley Vista,Fresh Fields.
+Setif,Central Heartland,Heartland Square,Central Bites.
+Setif,Central Heartland,Heartland Square,Harmony Haven.
+Setif,Central Heartland,Heartland Square,Urban Retreat.
+Setif,Central Riverside,Riverside Plaza,Riverside Grill.
+Setif,Central Riverside,Riverside Plaza,Waterfront Delight.
+Setif,Central Riverside,Riverside Plaza,Blue River Bistro.
+Annaba,Coastal Island,Island Oasis,Tropical Haven.
+Annaba,Coastal Island,Island Oasis,Palm Paradise.
+Annaba,Coastal Island,Island Oasis,Island Retreat.
+Annaba,Coastal Seaside,Seaside Paradise,Coastal Breeze.
+Annaba,Coastal Seaside,Seaside Paradise,Shoreline Grill.
+Annaba,Coastal Seaside,Seaside Paradise,Seafront Delight.
+Bejaia,Coastal Island,Island Oasis,Tropical Haven.
+Bejaia,Coastal Island,Island Oasis,Palm Paradise.
+Bejaia,Coastal Seaside,Seaside Cafe,Coastal Breeze.
+Bejaia,Coastal Seaside,Seaside Cafe,Seaside Bites.
+Bejaia,Coastal Seaside,Seaside Cafe,Ocean Delight.
+Djelfa,South Plateau,Plateau Oasis,Plateau Paradise.
+Djelfa,South Plateau,Plateau Oasis,Summit Bites.
+Djelfa,South Plateau,Plateau Oasis,Mountain Oasis.
+Djelfa,South Oasis,Oasis Plaza,Oasis Oasis.
+Djelfa,South Oasis,Oasis Plaza,Desert Delight.
+Djelfa,South Oasis,Oasis Plaza,Sand Dunes Grill.
+Algiers,Central Downtown,City Center,Cafe de Paris.
+Algiers,Central Downtown,City Center,Spicy Bites.
+Algiers,Central Downtown,City Center,Food Haven.
+Algiers,Central Uptown,Uptown Square,Fusion Delight.
+Algiers,Central Uptown,Uptown Square,Urban Grill.
+Algiers,Central Uptown,Uptown Square,Sushi Express.
+Algiers,North Hillside,Hillside View,Mountain View.
+Algiers,North Hillside,Hillside View,Fresh Harvest.
+Algiers,North Hillside,Hillside View,Green Oasis.
+Algiers,North Lakeside,Lakeside Drive,Lakeside Grill.
+Algiers,North Lakeside,Lakeside Drive,Blue Lagoon.
+Algiers,North Lakeside,Lakeside Drive,Sunset Terrace.
+Tlemcen,Northwest Highlands,Highland View,Mountain Retreat.
+Tlemcen,Northwest Highlands,Highland View,Highland Bites.
+Tlemcen,Northwest Highlands,Highland View,Nature's Grill.
+Tlemcen,Northwest Lowlands,Lowland Vista,Lowland Delight.
+Tlemcen,Northwest Lowlands,Lowland Vista,Meadowview.
+Tlemcen,Northwest Lowlands,Lowland Vista,Green Fields.
